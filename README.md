@@ -6,7 +6,7 @@
 
 This project implements a comprehensive pipeline for analyzing Cyber Threat Intelligence (CTI) reports using Natural Language Processing (NLP) and Large Language Models (LLMs). The pipeline automatically extracts indicators of compromise (IOCs), tags MITRE ATT&CK techniques, builds knowledge graphs from unstructured CTI reports, and provides an API for integration with security tools.
 
-**Developed by: ANAND BINU ARJUN**
+**Developed by: Shinde Pankaj**
 
 ## 🚀 Features
 
